@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-j1r443.lead2metrika.ru/sitemap.xml
